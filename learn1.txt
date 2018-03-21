@@ -1,0 +1,6 @@
+sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyamldev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties libffi-dev
+
+rbenv install 2.5.0 
+rbenv global 2.5.0
+rbenv rehash
+gem install rails
